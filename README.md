@@ -1,4 +1,4 @@
-**XAI BASED OSCC DETECTION SYSTEM**
+#**XAI BASED OSCC DETECTION SYSTEM**
 
 [N.B:- In anticipation of publishing our paper, we have maintained confidentiality of our codes until the time of publication.]
 
@@ -6,9 +6,9 @@ Training approaches used: -\
 * Fine-tuning
 * Cost-Sensitive approach
 * Contrastive Learning approach:
-            * Triplet Contrastive Loss
-            * Max-Margin Contrastive Loss
-            * Supervised Contrastive Loss
+            *Triplet Contrastive Loss
+            *Max-Margin Contrastive Loss
+            *Supervised Contrastive Loss
 Models used: -\
             + VGG-16\
             + DenseNet-121\
