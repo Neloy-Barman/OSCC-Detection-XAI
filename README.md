@@ -21,3 +21,5 @@
             - Gradient-Based: Grad-CAM, Grad-CAM++
             - Gradient Free: Score-CAM, Faster Score-CAM
             - Perturbation-Based: - LIME
+<h1><bold>LIME applied on a correctly classified OSCC image</bold></h1>
+![CC_O_LIME](https://github.com/Neloy-Barman/XAI-OSCC-Detection/assets/110896263/ae9b8d1e-aa65-42f7-b495-a762c60ceea9)
