@@ -9,4 +9,9 @@ Models used: -\
             + AlexNet\
             + MobileNetV2\
             + VGG-19\
-            + ResNet-50
+            + ResNet-50\
+
+XAI Techniques used: -\
+            - Gradient-Based: Grad-CAM, Grad-CAM++\
+            - Gradient Free: Score-CAM, Faster Score-CAM\
+            - Perturbation-Based: - LIME
