@@ -5,9 +5,9 @@
 * **Fine-tuning**
 * **Cost-Sensitive approach**
 * **Contrastive Learning approach:**
-            *Triplet Contrastive Loss
-            *Max-Margin Contrastive Loss
-            *Supervised Contrastive Loss
+            1. Triplet Contrastive Loss
+            2. Max-Margin Contrastive Loss
+            3. Supervised Contrastive Loss
 Models used: -\
             + VGG-16\
             + DenseNet-121\
