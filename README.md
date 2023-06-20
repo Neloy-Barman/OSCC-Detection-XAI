@@ -6,13 +6,8 @@ Models used: -
 
       + VGG-16\n
       + DenseNet-121
-      
       + InceptionV3
-      
       + AlexNet
-      
       + MobileNetV2
-      
       + VGG-19
-      
       + ResNet-50
