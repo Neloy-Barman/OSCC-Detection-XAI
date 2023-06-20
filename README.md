@@ -1,7 +1,7 @@
 # **XAI BASED OSCC DETECTION SYSTEM**
 ## [N.B:- In anticipation of publishing our paper, we have maintained confidentiality of our codes until the time of publication.]
 
-Training approaches used: -\
+### Training approaches used:- 
 * Fine-tuning
 * Cost-Sensitive approach
 * Contrastive Learning approach:
