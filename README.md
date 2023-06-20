@@ -1,6 +1,5 @@
 # **XAI BASED OSCC DETECTION SYSTEM**
-## [N.B:- In anticipation of publishing our paper, we have maintained confidentiality of our codes until the time of publication.]
-
+## [N.B:- In anticipation of publishing our paper, we have maintained confidentiality of our codes and other things until the time of publication.]
 ### Training approaches used:- 
 * **Fine-tuning**
 * **Cost-Sensitive approach**
@@ -8,7 +7,6 @@
             1. **Triplet Contrastive Loss\
             2. Max-Margin Contrastive Loss\
             3. Supervised Contrastive Loss**
- 
 ### Models used:- 
             - VGG-16
             - DenseNet-121
@@ -21,6 +19,5 @@
             - Gradient-Based: Grad-CAM, Grad-CAM++
             - Gradient Free: Score-CAM, Faster Score-CAM
             - Perturbation-Based: - LIME
-<h1><bold>LIME applied on a correctly classified OSCC image</bold></h1>
-![CC_O_LIME](https://github.com/Neloy-Barman/XAI-OSCC-Detection/assets/110896263/5acb49c8-3e9a-43d7-9f06-c30cdfda0a7c)
+## To get visualized, we provided some images in the above folders, so, check that out. Thank you. 
 
