@@ -1,4 +1,4 @@
-#**XAI BASED OSCC DETECTION SYSTEM**
+# **XAI BASED OSCC DETECTION SYSTEM**
 
 [N.B:- In anticipation of publishing our paper, we have maintained confidentiality of our codes until the time of publication.]
 
