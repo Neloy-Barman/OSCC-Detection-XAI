@@ -9,4 +9,4 @@ Models used: -\
       + AlexNet\
       + MobileNetV2\
       + VGG-19\
-      + ResNet-50\
+      + ResNet-50
