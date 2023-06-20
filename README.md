@@ -9,13 +9,13 @@
             2. Max-Margin Contrastive Loss
             3. Supervised Contrastive Loss
 ### Models used: -\
-            + VGG-16\
-            + DenseNet-121\
-            + InceptionV3\
-            + AlexNet\
-            + MobileNetV2\
-            + VGG-19\
-            + ResNet-50\
+            + VGG-16
+            + DenseNet-121
+            + InceptionV3
+            + AlexNet
+            + MobileNetV2
+            + VGG-19
+            + ResNet-50
 ### XAI Techniques used: -
             - Gradient-Based: Grad-CAM, Grad-CAM++\
             - Gradient Free: Score-CAM, Faster Score-CAM\
