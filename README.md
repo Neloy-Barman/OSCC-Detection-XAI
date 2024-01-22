@@ -9,7 +9,7 @@
 
 <h2><code style="color:blue">Dataset</code></h2>
 <div align="center">
-    <img height="300" width="600" src="readMeFileImages/dataset.png" >
+    <img height="300" width="600" src="readMeFileImages/dataset_2.png" >
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
             </ul>
 </ul>
 <div align="center">
-    <img height="350" width="600" src="readMeFileImages/ft.png" >
+    <img height="350" width="600" src="readMeFileImages/ft_2.png" >
 </div>
 
 <h3>CNN based models used to train: -</h3>
