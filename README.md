@@ -9,11 +9,11 @@
 
 <h2><code style="color:blue">Dataset</code></h2>
 <div align="center">
-    <img height="300" width="600" src="readMeFileImages/Dataset.png" >
+    <img height="300" width="600" src="readMeFileImages/dataset.png" >
 </div>
 
 <div align="center">
-    <img height="300" width="600" src="readMeFileImages/aug_data.png" >
+    <img height="300" width="600" src="readMeFileImages/aug_data_2.png" >
 </div>
 
 <h2><code style="color:blue">Methodology & Experimentations</code></h2>
@@ -29,7 +29,7 @@
             </ul>
 </ul>
 <div align="center">
-    <img height="300" width="600" src="readMeFileImages/FT.png" >
+    <img height="350" width="600" src="readMeFileImages/ft.png" >
 </div>
 
 <h3>CNN based models used to train: -</h3>
@@ -46,11 +46,7 @@
 <h2><code style="color:blue">Model Evaluation</code></h2>
 
 <div align="center">
-    <img height="600" width="600" src="readMeFileImages/ft_cm.png" >
-</div>
-
-<div align="center">
-    <img height="600" width="600" src="readMeFileImages/triplet_cm.png" >
+    <img src="readMeFileImages/result.png" >
 </div>
 
 
@@ -78,15 +74,15 @@
 </ul>
 
 <div align="center">
-    <img src="readMeFileImages/CC_O_DenseNet.png" >
+    <img src="readMeFileImages/vgg16.png" >
 </div>
 
 <div align="center">
-    <img src="readMeFileImages/CC_O_VGG16.png">
+    <img src="readMeFileImages/inceptionv3.png">
 </div>
 
 <div align="center">
-    <img src="readMeFileImages/CC_O_LIME.png">
+    <img src="readMeFileImages/CC_O_LIME_2.png">
 </div>
 
 <h2><code style="color:blue">Conclusion</code></h2>
