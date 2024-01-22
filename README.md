@@ -17,7 +17,12 @@ the major motivation of the work came from. If a model can give an answer about 
 anyone has cancer or not, it also should be able to say “why” such an answer is being given.
 We aim to do exactly this with our built model.</strong>
 
-<strong>ere, we tried to train out CNN models with a dataset that contains histopathological imaages. After the training session completed, the last layer of the CNN model was implemented with XAI models. Explainable AI generates a visual system that clearly indicates the reasoning in favor of the given result.</strong>
+<div align="center">
+    <img height="300" width="750" src="readMeFileImages/xai.png"></br>
+    <strong><p>Images from the OSCC Dataset</p></strong>
+</div>
+
+<strong>Here, we tried to train out CNN models with a dataset that contains histopathological imaages. After the training session completed, the last layer of the CNN model was implemented with XAI models. Explainable AI generates a visual system that clearly indicates the reasoning in favor of the given result.</strong>
 
 <h2><code style="color:blue">Dataset</code></h2>
 <strong>For grading cancer, histopathological image analysis is frequently performed all around the
